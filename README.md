@@ -7,3 +7,4 @@
 
 library 모음
 -caret : 혼동행렬 (confusionMatrix)
+- rm(list = ls()) : 현재 R Studio에 기록된 데이터 모두 삭제
